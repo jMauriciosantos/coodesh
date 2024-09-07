@@ -1,0 +1,15 @@
+{
+  "name": "coodesh",
+  "version": "1.0.0",
+  "description": "Este é um desafio para que possamos ver as suas habilidades como QA/Tester.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.3.0"
+  }
+}

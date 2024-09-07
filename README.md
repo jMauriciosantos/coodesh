@@ -24,6 +24,9 @@ Neste desafio aplicaremos os conceitos de teste caixa preta, onde testaremos a p
 
 **Obrigatório 1** - Para realizar o teste precisamos escolher a ferramenta de teste. Explicar o por quê da escolha, as vantagens e desvantagens dos que não foram escolhidos.
 
+Ferramenta: puppeteer
+motivo: tecnologia que eu ja tinha conhecimento, usei previamente em projetos de teste e automação, escolhi por ser relativamente facil e pratica de usar.
+
 **Obrigatório 2** - Você deverá atender aos seguintes casos de uso:
 
 - Se a página está carregando corretamente a home page;
